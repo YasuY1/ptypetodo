@@ -1,0 +1,55 @@
+@charset "utf-8";
+body {
+  width: 1440px;
+  margin: 0 auto;
+  position: relative;
+}
+header {
+  height: 89px;
+  background: #c4c4c4;
+}
+label {
+  position: absolute;
+  left: 282px;
+  height: 23px;
+  font-family: Roboto;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.titletitle {
+  width: 80px;
+  top: 195px;
+}
+.endlinetitle {
+  width: 40px;
+  top: 372px;
+}
+input {
+  position: absolute;
+  background: #c4c4c4;
+}
+input.titlebox {
+  width: 893px;
+  height: 78px;
+  left: 282px;
+  top: 234px;
+}
+input.endlinebox {
+  width: 893px;
+  height: 78px;
+  left: 282px;
+  top: 411px;
+}
+input.submitbtn {
+  width: 318px;
+  height: 41px;
+  left: 561px;
+  top: 588px;
+}
+div.cutArea {
+  margin-top: 600px;
+}
+table th {
+  border-bottom: 1px solid #000;
+}
